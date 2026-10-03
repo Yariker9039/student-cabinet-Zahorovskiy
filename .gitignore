@@ -1,0 +1,16 @@
+# Operating system
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# .NET / ASP.NET Core
+bin/
+obj/
+*.user
+
+# Local environment and secrets
+.env
+appsettings.Development.json
